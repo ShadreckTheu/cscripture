@@ -377,17 +377,30 @@ button.btn1:hover {
     background-size: cover;
 }
 
-.carousel-caption h2,
-.carousel-caption h3 {
+.carousel-caption h2 {
     font-size: 4.5em;
     font-weight: 700;
+    /* position: centre; */
     letter-spacing: 1px;
     line-height: 1.4em;
+    text-align: center;
+}
+
+.carousel-caption h3{
+    font-size: 3em;
+    font-weight: 400;
+    /* position: centre; */
+    letter-spacing: 1px;
+    line-height: 1.4em;
+    text-align: center;
+    color: #be0027;
+
 }
 
 .carousel-caption h2 span,
 .carousel-caption h3 span {
     font-weight: 600;
+    color:  #be0027;
 }
 
 .carousel-caption a {
@@ -434,7 +447,8 @@ button.btn1:hover {
 
 .carousel-indicators {
     bottom: 17%;
-    left: 22%;
+    /* left: 22%; */
+    left: 45%;
 }
 
 .carousel-caption {
@@ -447,6 +461,7 @@ button.btn1:hover {
 
 .bnr-button {
     margin-top: 2em;
+    text-align: center;
 }
 
 .carousel-control {
@@ -2252,3 +2267,15 @@ ul.social-nav .fa-w-12,
 }
 
 /*--//responsive--*/
+
+.banner_page {
+    margin: 0;
+    /* color: #e8e3e3; */
+    color: white;
+    font-size: 2em;
+    line-height: 1.9em;
+    font-family: 'Molengo', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
