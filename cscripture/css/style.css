@@ -1542,21 +1542,21 @@ ul.social-nav .fa-w-12,
 @media(max-width:1680px) {
     .carousel-indicators {
         bottom: 17%;
-        left: 19%;
+        left: 45%;
     }
 }
 
 @media(max-width:1600px) {
     .carousel-indicators {
         bottom: 17%;
-        left: 18%;
+        left: 45%;
     }
 }
 
 @media(max-width:1440px) {
     .carousel-indicators {
         bottom: 17%;
-        left: 14%;
+        left: 45%;
     }
     h3.tittle_w3ls {
         font-size: 3em;
