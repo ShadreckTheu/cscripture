@@ -1580,7 +1580,7 @@ ul.social-nav .fa-w-12,
     }
     .carousel-indicators {
         bottom: 13%;
-        left: 11%;
+        left: 45%;
     }
     .inner_sec_info_agile-w3ls {
         margin-top: 3em;
@@ -1616,7 +1616,7 @@ ul.social-nav .fa-w-12,
     }
     .carousel-indicators {
         bottom: 13%;
-        left: 9%;
+        left: 45%;
     }
 }
 
@@ -1724,7 +1724,7 @@ ul.social-nav .fa-w-12,
     }
     .carousel-indicators {
         bottom: 13%;
-        left: 18%;
+        left: 45%;
     }
     .about-left {
         min-height: 300px;
@@ -1787,7 +1787,7 @@ ul.social-nav .fa-w-12,
     }
     .carousel-indicators {
         bottom: 20%;
-        left: 12%;
+        left: 45%;
     }
     .carousel-caption {
         position: inherit;
@@ -1800,8 +1800,8 @@ ul.social-nav .fa-w-12,
 
 @media(max-width:768px) {
     .carousel-indicators {
-        bottom: 20%;
-        left: 9%;
+        bottom: 10%;
+        left: 45%;
     }
     .ser-first-grid {
         margin-bottom: 1em;
@@ -1964,8 +1964,8 @@ ul.social-nav .fa-w-12,
         font-size: 2em;
     }
     .carousel-indicators {
-        bottom: 20%;
-        left: 10%;
+        bottom: 10%;
+        left: 45%;
     }
     .newsleft_w3_agileinfo-inner {
         width: 90%;
@@ -2009,8 +2009,8 @@ ul.social-nav .fa-w-12,
         font-size: 0.9em;
     }
     .carousel-indicators {
-        bottom: 17%;
-        left: 12%;
+        bottom: 10%;
+        left: 45%;
     }
     .carousel-control {
         line-height: 35em;
@@ -2148,7 +2148,8 @@ ul.social-nav .fa-w-12,
         font-size: 15px;
     }
     .carousel-indicators {
-        left: 14%;
+        bottom: 10%;
+        left: 45%;
     }
     .carousel-caption {
         min-height: 394px !important;
@@ -2237,7 +2238,8 @@ ul.social-nav .fa-w-12,
         width: 100%;
     }
     .carousel-indicators {
-        left: 16%;
+        bottom: 0%;
+        left: 45%;
     }
     .carousel-control {
         line-height: 31em;
