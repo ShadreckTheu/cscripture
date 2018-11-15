@@ -1,2 +1,0 @@
-# cscripture
-website for csripture
